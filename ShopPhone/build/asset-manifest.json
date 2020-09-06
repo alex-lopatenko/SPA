@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alex-lopatenko/Phone-shop/static/css/main.c0e375ba.chunk.css",
+    "main.js": "/alex-lopatenko/Phone-shop/static/js/main.677cadf4.chunk.js",
+    "main.js.map": "/alex-lopatenko/Phone-shop/static/js/main.677cadf4.chunk.js.map",
+    "runtime~main.js": "/alex-lopatenko/Phone-shop/static/js/runtime~main.bcdd26ea.js",
+    "runtime~main.js.map": "/alex-lopatenko/Phone-shop/static/js/runtime~main.bcdd26ea.js.map",
+    "static/js/2.f8ff4fa7.chunk.js": "/alex-lopatenko/Phone-shop/static/js/2.f8ff4fa7.chunk.js",
+    "static/js/2.f8ff4fa7.chunk.js.map": "/alex-lopatenko/Phone-shop/static/js/2.f8ff4fa7.chunk.js.map",
+    "index.html": "/alex-lopatenko/Phone-shop/index.html",
+    "precache-manifest.d331b51f0da00678025e25cfd7f0e37f.js": "/alex-lopatenko/Phone-shop/precache-manifest.d331b51f0da00678025e25cfd7f0e37f.js",
+    "service-worker.js": "/alex-lopatenko/Phone-shop/service-worker.js",
+    "static/css/main.c0e375ba.chunk.css.map": "/alex-lopatenko/Phone-shop/static/css/main.c0e375ba.chunk.css.map"
+  }
+}
